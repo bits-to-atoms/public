@@ -1,0 +1,1 @@
+# This is meant to hold all valid 5 character long words, one line each. You can get the list from any Wordle Javascript file.
